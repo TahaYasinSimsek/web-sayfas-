@@ -1,0 +1,894 @@
+@media only screen and (max-width: 600px) 
+{
+    .mobilust
+    {
+        background-color: black;
+        height: 195px;
+    }
+    .anabasyazi
+    {
+        font-size: 45px;
+        text-align: center;
+        margin-left: 30%;
+        width: 300px;
+        margin-top: 80px;
+    }
+    .foterustbeyaz
+    {
+        position: relative;
+        z-index: -4;
+    }
+    .foterustbeyazbir
+    {
+        
+        
+        margin-top: -450px;
+        float: left;
+    }
+    .gizli
+    {
+        position: relative;
+        z-index: 0;
+        float: left;
+        margin: 40px 0px 00px 40px;
+    }
+    .parent {
+        overflow: hidden;
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+    }
+    .zommlama
+    {
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+        width: 365px;  
+        height: 220px;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+    }
+    .parent:hover .zommlama, .parent:focus .zommlama {
+        -ms-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+    .parent:hover .zommlama:before, .parent:focus .zommlama:before {
+        display: block;
+    }
+    
+    .parent:hover , .parent:focus  {
+        display: block;
+    }
+    .anaortyazi
+    {
+        margin-top: -20px;
+        font-size: 26px;
+        font-weight: 600;
+        text-align: center;
+        margin-left: 10%;
+        width: 450px;
+    }
+    .anaaltyazi
+    {
+        margin-left: 80%;
+        width: 200px;
+        text-align: center;
+    }
+    .telefon
+    {
+        background-image:url(./resim/telefonarkasi.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 902px;
+        margin-bottom: 60px;
+    }
+    .telkendi
+    {
+        float:right;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+    .telefonyazi
+    {
+        float: left;
+        margin: 50px 0px 50px 50px;
+        text-align: center;
+    }
+    .tlfyazii
+    {
+        margin-left: -70px;
+    }
+    .what
+    {
+        font-size: 36px;
+        color: #000000;
+    }
+    .testimonials
+    {
+        font-size: 20px;
+    }
+    .whatbt
+    {
+        width: 100%;
+    }
+    .kindddle
+    {
+        float: right;
+
+    }
+    .kayari
+    {
+        float: right;
+        margin-top: -145px;
+        margin-right: 90px;
+    }
+    .yazzilarayar
+    {
+        width: 80%;
+        margin-left: 12%;
+    }
+    .resimaltbas
+    {
+        font-size: 70px;
+        font-family: Kristi;
+    }
+    .resimaltyazi
+    {
+        text-align: center;
+        color: #000000;
+        font-size: 30px;
+        width: 370px;
+        letter-spacing: 1px;
+        margin-left: 8%;
+        font-weight: 400;
+    }
+    .carolink
+    {
+        background-color: black;
+        margin: 550px 0px 0px 130px;
+        border-radius: 5px;
+        float: left;
+    }
+    .carolink:hover
+    {
+        background-color: black;
+    }
+    .carolinknext
+    {
+        margin: 550px 1137px 0px 0px;
+        background-color: black;
+        border-radius: 5px;
+        float: left;
+    }
+    .carolinknext:hover
+    {
+        background-color: black;
+    }
+    .shopyazi
+    {
+    background-image:linear-gradient(180deg, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.8) 100%),url(https://avada.theme-fusion.com/author/wp-content/uploads/sites/128/2020/02/bg-14@2x-scaled.jpg);   
+    background-size: 100% 100%;
+    height: 195px;
+    width: 106.6%;
+    margin-left: -15px;
+    text-align: center;
+    }
+    .ebaayar
+    {
+        margin-left: 50px;
+    }
+    .ebaayar1
+    {
+        margin-left: 30px;
+    }
+    .resimalt
+    {
+        margin-top: 700px;
+    }
+    .aboutuzunyazi
+    {
+        margin-top: 400px;
+        margin-bottom: 70px;
+    }
+    .aboresim
+    {
+        width: 370px;
+        height: 360px;
+        margin-left: 5%;
+    }
+    .met
+    {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        height: 460px;
+        border-radius: 0px 0px 50px 0px;
+        margin-bottom: 30px;
+        margin-left: -30px;
+        transition: all .5s ease-in-out;
+        cursor: pointer;
+    }
+    .linkuclucizgi
+    {
+        margin-left: 145px;
+    }
+    .linkucsari
+    {
+        width: 290px;
+        margin-left: 30px;
+    }
+    .aboutortasiyah
+    {
+        width: 370px;
+        font-size: 30px;
+        font-weight: 500;
+        margin-left: 8%;
+    }
+    .masa
+    {
+        width: 370px;
+    }
+    .aboutanayaziayar
+    {
+        width: 370px;
+        margin-left: 10%;
+    }
+    .same
+    {
+        width: 350px;
+        margin-left: 8%;
+    }
+    .olku
+    {
+        margin-left: 8%;
+    }
+    .aboutsagyazi
+    {
+        width: 370px;
+        margin-left: 7%;
+        margin-bottom: 8%;
+    }
+    .aboutanayazi
+    {
+        margin-left: 10px;
+    }
+    .ay
+    {
+        float: left;
+        margin-left: 8%;
+    }
+    .metyazi
+    {
+        background-image: url(./resim/meetups.png);
+        background-size: 100% 100%;
+        height: 195px;
+        width: 106.6%;
+        margin-left: -15px;
+        text-align: center;
+    }
+    .contyaziboyut
+    {
+        text-align: center; 
+        font-size: 28px; 
+        color: black;
+        width: 75%;
+        margin-left: 10%;
+        font-weight: 400;
+        margin-bottom: 50px;
+    }
+    .cnresimyazi
+    {
+        background-image: url(./resim/genesıs.png);
+        background-size: 100% 100%;
+        height: 220px;
+        width: 106.6%;
+        margin-left: -15px;
+        text-align: center;
+    }
+    .coroimg
+    {
+        width: 100%;
+        height: 840px;
+    }
+    .beyazresim
+    {
+        width: 400px;
+    }
+    .beyazyer
+    {
+        background-color: white;
+        width: 440px;
+        height: 300px;
+        font-size: 10px;
+        margin: 10px 0px 30px 20px;
+    }
+    .beyazbuton
+    {
+        border: 2px solid #a4d2c2;
+        border-radius: 12px;
+        height: 45px;
+    }
+    .beyazbuton:hover
+    {
+        border-top: 2px solid #82baa6;
+        border-left: 2px solid #82baa6;
+        border-bottom: 2px solid #82baa6;
+        border-radius: 12px;
+    }
+    .bra
+    {
+        margin-right: 30px;
+    }
+    .numayar
+    {
+        width: 200px;
+    }
+    .acikayar
+    {
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+    .cnresimbas
+    {   
+        float: left;
+        margin-top: 50px;
+        margin-left: 20%;
+        color:white; 
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .cnresimalt
+    {   
+        float: left;
+        margin-top: 10px;
+        color: #f4b429; 
+        font-size: 20px;
+        margin-left: 5%;
+    }
+    .myucluyazi
+    {
+        width: 340px; 
+        margin: 30px 0px 0px 20px;
+    }
+    .myuclu
+    {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .myucluresim
+    {
+        width: 370px;
+         height: 210px;
+    }
+    .bro
+    {
+        font-size: 18px; 
+        color: #4f4f4f; 
+        font-weight: 500;
+        width:  240px;
+    }
+    .mybyalt
+    {
+        width: 300px; 
+        margin: 30px 0px 0px 80px;
+    }
+    .aboutme
+    {
+        background-color: black;
+        height: 195px;
+    }
+    .aboutmeyazi
+    {
+        background-image:url(./resim/romans.png);
+        background-size: 100% 100%;
+        height: 195px;
+        width: 106.6%;
+        margin-left: -15px;
+        text-align: center;
+    }
+    .myortresim
+    {
+        background-image: linear-gradient(180deg, rgba(0,0,0,0.29) 0%,rgba(0,0,0,0.68) 100%),url(https://avada.theme-fusion.com/author/wp-content/uploads/sites/128/2019/11/thumb-08@2x.jpg);
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 340px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+    .mybyresim
+    {
+        margin-left: 45px;
+        width: 340px;
+        height: 210px;
+    }
+    .myortresimyaziayar
+    {
+        width: 260px; 
+        margin: 40px 0px 0px 10px; 
+    }
+    .myortresimyazi
+    {
+        font-size: 18px;
+        font-weight: 500; 
+        color: white;
+    }
+    .myortresimcbas
+    {
+        font-size: 39px;
+    }
+    .logo
+    {
+        margin-left: -40px;
+        margin-top: 10px;
+    }
+    .shopyazibas
+    {      
+        margin-left: 28%;
+        float: left;
+        margin-top: 50px;
+        color:white; 
+        font-size: 45px;
+    }
+    .shopyazialt
+    {   
+        height: 70px;
+        float: left;
+        color: #f4b429; 
+        font-size: 19px;
+        margin-left: 80px;
+    }
+    .myyazibas
+    {
+        margin-left: 20%;
+        float: left;
+        margin-top: 50px;
+        color:white; 
+        font-size: 45px;
+    }
+    .myyazialt
+    {
+        height: 70px;
+        float: left;
+        color: #f4b429; 
+        font-size: 19px;
+        margin-left: 40px;
+    }
+    .metyazibas
+    {      
+        margin-left: 30%;
+        float: left;
+        margin-top: 50px;
+        color:white; 
+        font-size: 45px;
+    }
+    .metyazialt
+    {   
+        height: 70px;
+        float: left;
+        color: #f4b429; 
+        font-size: 19px;
+        margin-left: 85px;
+    }
+    .aklhg
+    {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .yan
+    {
+        margin: 0px 70px 5px 100px;
+        width: 51%;
+    }
+    .showw12
+    {
+        margin-right: 50%;
+    }
+    .shopimg
+    {
+        width: 200px;
+        height: 150px;
+    }
+    .yazifiyat
+    {
+        width: 220px;
+        margin-left: 90px;
+    }
+    .moblogo
+    {
+        margin-left: -50px;
+    }
+    .merealt
+    {
+        text-align: center; 
+        font-size: 28px; 
+        color: black;
+        margin-top: -20px;
+        width: 350px;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+    .sola
+    {
+        margin-left: 20px;
+    }
+    .ortalama
+    {
+        margin: 50px 0px 5px 100px;
+    }
+    .ortalamayan
+    {
+        margin: 50px 0px 5px 0px;
+    }
+    .yan1
+    {
+        margin: 0px 0px 0px 150px;
+    }
+    .sepetyazi
+    {
+    background-image:linear-gradient(180deg, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.8) 100%),url(https://avada.theme-fusion.com/author/wp-content/uploads/sites/128/2020/02/bg-15@2x-scaled.jpg);
+    background-size: 100% 100%;
+    height: 170px;
+    width: 106.6%;
+    margin-left: -15px;
+    text-align: center;
+    margin-bottom: 50px;
+    }
+    .sepetyazibas
+    {
+        margin-left: 40%;
+        float: left;
+        margin-top: 40px;
+        color:white; 
+        font-size: 45px;
+    }
+    .sepetorta
+    {
+        text-align: center;
+        margin-bottom: 50px;
+       
+    }
+    .ortyazisi
+    {
+        margin-left: 18%;
+        width: 65%;
+        border-top: 1px solid #808080; border-bottom: 1px solid #808080;
+    } 
+    .sptyazibir
+    {
+      color: #808080; font-size: 20px;
+    }
+    .testiyazi1
+    {
+        background-image:linear-gradient(180deg, rgba(48,48,48,0.29) 0%,rgba(0,0,0,0.68) 100%),  url(https://avada.theme-fusion.com/author/wp-content/uploads/sites/128/2020/02/bg-15@2x-scaled.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        height: 195px;
+        width: 106.6%;
+        margin-left: -15px;
+        text-align: center;
+    }.aut
+    {
+        height: 330px;
+    }
+    .aus
+    {
+        height: 380px;
+    }
+    .mopembetesti
+    {
+        margin: 20px 0px 20px 0px;
+        width: 355px;
+        height: 430px;
+        background-color: #fef7e9; 
+        text-align: center;
+        margin-left: 12%;
+    }
+    .testiyazi
+    {
+        text-align: center;
+        font-size: 27px;
+        margin: 20px 0px 20px 0px;
+        width: 65%;
+    }
+    .viva
+    {
+     margin-left: 18px;
+    }
+    .testianayazi
+    {
+        text-align: center;
+        margin: 30px 0px 50px 80px;
+    }
+    .testiresim
+    {
+        width: 250px; margin: 80px 0px 0px 40px; float: left;
+    }
+    .pmbat1
+    {
+        width: 360px;
+        margin: 0px 0px 50px 0px;
+    }
+    .metin2
+    {
+        background-image:linear-gradient(180deg, rgba(48,48,48,0.29) 0%,rgba(0,0,0,0.68) 100%), url('./resim/bayan1yakın.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 1000px;
+        border-radius: 0px 0px 90px 0px;
+        width: 328px;
+        margin-right: 20px;
+        margin-left: 87px;
+        margin-top: 40px;
+    }
+    .metin1
+    {
+        background-image:linear-gradient(180deg, rgba(48,48,48,0.29) 0%,rgba(0,0,0,0.68) 100%), url(./resim/bayan1.png); 
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 1080px;
+        border-radius: 0px 0px 90px 0px;
+        width: 350px;
+        margin-left: 15%;
+    }
+    .metin
+    {
+        background-image:linear-gradient(180deg, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.8) 100%),url(./resim/sepet.png); 
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 1080px;
+        border-radius: 0px 0px 90px 0px;
+        width: 350px;
+        margin-left: 15%;
+    }
+    .myorta
+    {
+        margin-bottom: 80px;
+    }
+    .ucluyer
+    {
+        background-color: #fef7e9;
+        height: 1780px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .ucluyerbaslik
+    {
+        width: 350px;
+        margin: 40px 0px 0px 50px;
+        text-align: center;
+    }
+    .ucluyeruclu
+    {
+        
+        height: auto;
+        margin-top: 50px;
+        margin-left: 60px;
+    }
+    .uclu
+    {
+        width: 380px;
+        background-color: white;
+        height: 460px;
+        margin-top: 40px;
+    }
+    .mobimglink
+    {
+        width: 379px; 
+        height:190px;
+    }
+    .bos
+    {
+        margin-top: 60px;
+        font-family: "DM Serif Display", Georgia, serif;
+        font-size: 40px;
+        font-weight: 500;
+    }   
+    .uclubasyazi1
+    {
+        width: 300px;
+    }
+    .cizgili
+    {
+        width: 300px; 
+        margin-left: 30px; 
+        margin-top: 30px;
+        text-align: left;
+    }
+    .pembealt
+    {
+        width: 320px;
+        margin: 0px 0px 50px 45px;
+    }
+    .pembealt1
+    {
+        width: 360px;
+        margin: 0px 0px 50px 45px;
+    }
+    .pmbat
+    {
+        width: 320px;
+        margin: 0px 0px 50px 45px;
+    }
+    .pmbat1
+    {
+        width: 360px;
+        margin: 0px 0px 50px 45px;
+    }
+    .metgrupimg
+    {
+        width: 360px;
+        height: 220px;
+    }
+    .moayar
+    {
+        margin: 20px 0px 20px 40px;
+    }
+    .metgrpyazi
+    {
+        width: 70%;
+        margin: 25px 0px 50px 50px;
+    }
+    .siyahyer
+    {
+    background-image: url(./resim/banner2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 530px;
+    }
+    .siyahorta
+    {
+        text-align: center;
+        width: 380px;
+        margin-left: 7%;
+    }
+    .emailgiris
+    {
+        width: 100%; height: 50px;
+    }
+    .emailbutonu
+    {
+        height: 50px; 
+        width: 100%; 
+        margin-top: 25px;
+        background-color: #35a978;
+        color: white;
+        font-size: 18px;
+    }
+    .emailbutonu:hover
+    {
+        background-color: #357f60;
+        color: white;
+    }
+    .saltbas
+    {
+        font-size: 35px;
+        font-weight: 600;
+        width: 350px;
+        margin-left: 60px;
+    }
+    .saltbas1
+    {
+        font-size: 22px;
+        font-weight: 400;
+        width: 350px;        
+        margin-left: 60px;
+    }
+    .homet
+    {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        height: 425px;
+        width: 350px;
+        border-radius: 0px 0px 50px 0px;
+        margin-bottom: 30px;
+        margin-left: 10px;
+        transition: all .5s ease-in-out;
+        cursor: pointer;
+    }
+    .ikinciyazi
+    {
+        margin: 250px 0px 0px 0px;
+        text-align: center;
+    }
+    .linkucsari
+    {
+        width: 240px;
+        color: #f4b429; 
+        font-size: 18px;  
+        text-align: center;
+    }
+    .linkuclucizgi
+    {
+        margin-left: 120px;
+        width: 50px;  
+        border-bottom: 2px solid #555453;  
+        margin-top: 10px;
+    }
+    .foterustu
+    {
+        background-color: #fef7e9;
+        height: 1350px;
+    }
+    .warning
+    {
+        width: 100%; 
+        color: white; 
+        margin-top: 5px;
+        background-color: #ffbd2f;
+        height: 40px;
+        border-radius: 5px;
+        border: none;
+    }
+    .warning:hover
+    {
+        background-color: #f4a700;  
+        color: white; 
+    }
+    .asdd
+    {
+        margin-left: 1px;
+    }
+    .kindlefire
+    {
+        display: none;
+    }
+    .barnesno
+    {
+        margin-top: 12px;
+    }
+    .tlfyazibas
+    {
+    width: 325px;
+    }
+    .tlfyazialt
+    {
+        width: 340px;
+    }
+    .adfg
+    {
+        width: 100%;
+    }
+    .pembetestiyazisi
+    {
+        width: 300px;
+        margin-left: 21px;
+    }
+    .asc
+    {
+        margin-top: 50px;
+    }
+    footer
+    {
+        float: left;
+        background-image: url(./resim/adam.png);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+        color: white;
+    }
+    .fotaltyazisi
+    {
+        text-align: center;
+    }
+    .resimaltbuton
+{
+    background-color:#41b886;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 170px;
+    height: 40px;
+    margin-top: -20px;
+}
+
+.resimaltbuton:hover
+{
+    background-color: #357f60;
+    color: white;
+}
+}

@@ -1,0 +1,503 @@
+.shopinglink
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.shopinglink:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+
+.fotlink
+{
+    color: white;
+}
+.fotlink:hover
+{
+    color: #9a9a9a;
+}
+.homet:hover
+{
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+.met:hover
+{
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+.bas
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}  
+.beyazbuton
+{
+    border: 2px solid #a4d2c2;
+    border-radius: 12px;
+}
+.bb
+{
+    border-right: none;
+}
+.beyazbuton:hover
+{
+    border-top: 2px solid #82baa6;
+    border-left: 2px solid #82baa6;
+    border-bottom: 2px solid #82baa6;
+    border-radius: 12px;
+}
+.bra:hover
+{
+    border-right: 2px solid #82baa6;
+}
+
+.pembis
+{
+    margin-top: 100px;
+}
+.resimalt
+{
+    text-align: center;
+} 
+.linkuclu
+{
+    text-decoration: none;
+}
+.linkuclu:hover
+{
+    text-decoration: none;
+}
+.previcon
+{
+    color: white;
+}
+.previcon:hover
+{
+    color: black;
+}
+
+
+.imglink:hover
+{
+    opacity: 0.5;
+}
+.foterlink
+{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.foterlink:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.mybuton
+{
+    background-color: #7f8885;
+    color: white;
+}
+
+.mybuton:hover
+{
+    color: white;
+}
+.myortresim:hover
+{
+    box-shadow: 3px 3px 3px  grey;
+    transform: scale(1.02);
+}
+.yakinlasma1
+{   
+    width:280px; 
+    height:170px;
+    background: url(./resim/3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 5s;
+}
+.yakinlasma1:hover
+{   
+    background-size: 130% 130%;
+    transition: all 5s ease;
+}
+.fot
+{
+    color: white;
+    text-decoration: none;
+}
+.fot:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+i
+{
+    margin-right: 25px;
+    margin-bottom: 15px;
+}
+.ozel
+{
+    margin-right: 0px;
+}
+.fotemail
+{
+    color: white;
+    text-decoration: none;
+}
+.fotemail:visited
+{
+    color: white;
+    text-decoration: none;
+}
+.fotemail:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.cartin
+{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.cartin:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+
+.guardian
+{
+    color: black;
+    text-decoration: none;
+}
+.guardian:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.metin1:hover
+{
+    transform: scale(1.02);
+}
+.metin2:hover
+{
+    transform: scale(1.02);
+    box-shadow: 3px 3px 3px  grey;
+    z-index: 1;
+}
+.metin:hover
+{
+    transform: scale(1.02);
+}
+.ozell
+{
+    background-color: blue;
+}
+.ozell:hover
+{
+    opacity: 0.6;
+}
+.shopinglink1
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-size: 25px; margin-top: 30px;
+}
+.shopinglink1:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.metort
+{
+    text-align: center;
+}
+.face
+{
+    text-decoration: none;
+    color: #0c3b92;
+}
+.face:hover
+{   
+    width: 20px;
+    text-decoration: none;
+    color: #5e78aa;
+}
+.twwit
+{
+    color: #4ca1dd;
+    text-decoration: none;
+}
+.twwit:hover
+{
+    color: #73bbef;
+    text-decoration: none;
+}
+.ins
+{
+    color: #4193ce;
+    text-decoration: none;
+}
+.ins:hover
+{
+    color: #73bbef;
+    text-decoration: none;
+}
+.you
+{
+    color: red;
+    text-decoration: none;
+}
+.you:hover
+{
+    color: #d34b49;
+    
+}
+.linkedin
+{
+    color: #217eac;
+    text-decoration: none;
+}
+.linkedin:hover
+{
+    color: #2f90c1;
+    text-decoration: none;
+}
+.butona
+{
+    background-color: #48b38e;
+    color: white;
+}
+.butona:hover
+{
+    background-color: #357f60;
+    color: white;
+}
+.uclulink
+    {
+        font-size: 25px;
+        color: black;
+        text-decoration: none;
+    }
+    .uclulink:hover
+    {
+        color: #f4b429;
+        text-decoration: none;
+    }
+    .resimalti
+    {
+        color: black;
+        text-decoration: none;
+    }
+    .resimalti:hover
+    {
+        color: #f4b429;
+        text-decoration: none;
+    }
+    .yazilinki
+{
+    color: black;
+    text-decoration: none;
+}
+.yazilinki:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.uclugizli
+{
+    display: none;
+}
+.ananav
+{
+    display: inline;
+}
+.tablet
+{
+    display: none;
+    position: absolute;
+    float: right;
+    margin-left: 90%;
+    margin-top: 2%
+}
+@media only screen and (max-width: 1300px) and (min-width: 600px) 
+{
+    .tablet
+    {
+        display: inline-block;
+        position: absolute;
+        z-index: 4;
+    }
+    .navbarlink
+    {
+        border: 1px solid white;
+        margin-left: -570%;
+        width: 635%;
+        height: 200%;
+        background-color: #fbfbfb;
+        margin-top: -59%;
+        font-size: 25px;
+        
+        
+    }
+    .ustnav
+    {
+        width: 120%;
+        
+    }
+    
+    .ananav
+    {
+        position: absolute;
+        z-index: -5;
+        font-size: 2px;
+    }
+    
+    .ustnav button
+    {
+        float: right;
+        
+    }
+    .navbarlink ul li
+    {
+        list-style: none;
+        display: inline block;
+    }
+    .navbarlink ul li a
+    {
+     color: #191a19;
+     text-decoration: none;
+    }
+    .navbarlink ul li .acti
+    {
+        color: #39c4aa;
+    }
+    .navbar
+    {
+        border: none;
+    }
+    .navbarlink ul li a:hover
+    {
+        color: #39c4aa;
+    }
+   .navbarlink ul
+   {
+       margin-top: 10%;
+       margin-left: 10%;
+       text-align: center;
+   }
+   .navbarlink li
+   {
+       margin-bottom: 30px;
+   }
+   .sepetnavbar
+   {
+       float: right;
+       margin-top: -57%;
+       margin-right: 13%;
+       
+   }
+    .carolink 
+    {
+        z-index: -5;
+    }
+    carolinknext
+    {
+        z-index: -5;
+    
+    }
+}
+@media only screen and (max-width: 600px) 
+{
+    .tablet
+    {
+        display: inline-block;
+        position: absolute;
+        z-index: 4;
+    }
+    .navbarlink
+    {
+        border: 1px solid white;
+        margin-left: -570%;
+        width: 635%;
+        height: 200%;
+        background-color: #fbfbfb;
+        margin-top: -59%;
+        font-size: 25px;
+ 
+    }
+    .ananav
+    {
+        position: absolute;
+        z-index: -5;
+        font-size: 2px;
+    }
+    .ustnav
+    {
+        width: 120%;
+        
+    }
+    .ustnav button
+    {
+        float: right;
+        margin-left: -40%;
+    }
+    
+    .navbarlink ul li
+    {
+        list-style: none;
+        display: inline block;
+    }
+    .navbarlink ul li a
+    {
+     color: #191a19;
+     text-decoration: none;
+    }
+    .navbarlink ul li .acti
+    {
+        color: #39c4aa;
+    }
+    .navbar
+    {
+        border: none;
+    }
+    .navbarlink ul li a:hover
+    {
+        color: #39c4aa;
+    }
+   .navbarlink ul
+   {
+       margin-top: 10%;
+       margin-left: 40%;
+       text-align: center;
+   }
+   .navbarlink li
+   {
+       margin-bottom: 30px;
+   }
+   .sepetnavbar
+   {
+       float: right;
+       margin-top: -87%;
+       margin-right: 22%;
+       
+   }
+    .carolink 
+    {
+        z-index: -5;
+    }
+    carolinknext
+    {
+        z-index: -5;
+    
+    }
+}

@@ -1,0 +1,666 @@
+@media only screen and (min-width: 800px)
+{
+    .bas
+    {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+    }
+    .anabasyazi
+    {
+         font-size: 80px;
+    }   
+    .anaortyazi
+    {
+        font-size: 36px;
+        font-weight: 600;
+    }
+    .shopin
+    {
+        background-image: url(./resim/shop.png);
+        background-repeat: no-repeat;
+    }
+    .ana
+    {
+        background-image: url(./resim/sepet.png); float: left;
+    }
+    .logi
+    {
+        float: left;margin-top: 20px; margin-left: 25px;
+    }
+    .shopyazi
+    {
+        text-align: center; margin: 40px 0px 0px 0px; float: left;
+    }
+.ustnav
+{
+    margin-top: 0px; margin-left: 10px;
+}
+.ustlink
+{
+  margin-top: 10px;
+  width: 850px;
+  margin-right: 50px;
+  float: left;
+  margin-left: 120px;
+}
+nav
+{
+    margin: 0px 20px 20px 20px;
+}
+.linklerbir1
+{
+    text-decoration: none;
+    border-top: 5px solid rgb(244, 195, 88);
+    color: rgb(244, 195, 88);
+    font-size: 18px;
+    float: left;
+}
+.linklerbir1:hover
+{
+    text-decoration: none;
+    border-top: 5px solid rgb(244, 195, 88);
+    color: rgb(244, 195, 88);
+}
+.linkler
+{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 45px;
+    float: left;
+    border-top: 10px solid  none;
+}
+.linkler:visited
+{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    border-top: 10px solid  none;
+}
+.linkler:hover
+{
+    border-top: 5px solid rgb(244, 195, 88);
+    color: rgb(244, 195, 88);
+    text-decoration: none;
+}
+.linklerbir:hover
+{
+    text-decoration: none;
+    border-top: 5px solid rgb(244, 195, 88);
+    color: rgb(244, 195, 88);
+}
+.linklerbir
+{
+    text-decoration: none;
+    border-top: 5px solid rgb(244, 195, 88);
+    color: rgb(244, 195, 88);
+    font-size: 18px;
+    float: left;
+}
+.logo
+{
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.resimyazisi
+{
+    text-align: center; margin: 45px 0px 0px 260px; float: left;
+}
+.linkleriki
+{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 45px;
+    float: left;
+    border-top: 10px solid  none;
+}
+.linkleriki:hover
+{
+    text-decoration: none;
+    color: rgb(244, 195, 88);
+}
+.ilkyazi
+{
+    width: 550px;
+    height: 250px;
+    margin: 0px 50px 0px 80px;
+}
+.beyazyer
+{
+    background-color: white;
+    width: 545px;
+    height: 320px;
+    float: right;
+    margin: 235px 0px 0px 554px;
+    margin-right: 0px;
+    font-size: 10px;
+}
+.myresim
+{
+    text-align: center; margin: 50px 0px 0px 0px; float: left;
+}
+.my
+{
+    background-image:linear-gradient(180deg, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.8) 100%), url(./resim/shop.png); float: left; 
+}
+.beyazbuton
+{
+    border: 2px solid #a4d2c2;
+    border-radius: 12px;
+}
+.bb
+{
+    border-right: none;
+}
+.beyazbuton:hover
+{
+    border-top: 2px solid #82baa6;
+    border-left: 2px solid #82baa6;
+    border-bottom: 2px solid #82baa6;
+    border-radius: 12px;
+}
+.bra:hover
+{
+    border-right: 2px solid #82baa6;
+}
+.resimalt
+{
+    text-align: center;
+}
+.pembe
+{
+    width: 100%;
+    height: 110px;
+    margin-top: 50px;
+    float: left;
+    background-color:#fef7e9;
+}
+.telefon
+{
+    width: 100%;
+    height: 496px;
+    background-image:url(./resim/telefonarkasi.png);
+    float: left;
+    margin-bottom: 60px;
+}
+.telefonyazi
+{
+    float: left;
+    text-align: center;
+    width: 450px;
+    margin: 85px 0px 0px 0px;
+}
+.etkisi:hover
+{
+    width: 155px;
+}
+.etkisibir:hover
+{
+    width: 170px;
+}
+.bresimust
+{
+    float: left;
+    width: 75%;
+    margin-left: 200px;
+}
+.ortaresim
+{
+    float: left;
+    width: 75%;
+    margin-left: 200px;
+}
+.ortressim
+{
+    height:830px;
+    width: 560px;
+    background-image: url('./resim/bayan1.png');
+    border-radius: 0px 0px 70px 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-bottom: 150px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+    
+}
+.ortressim:hover
+{
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+.pembebir
+{
+    float: right;
+    width: 380px;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(254, 247, 233);
+}
+.guardian
+{
+    color: black;
+    text-decoration: none;
+}
+.guardian:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.pembeiki
+{
+    float: right;
+    width: 380px;
+    height: 450px;
+    text-align: center;
+    background-color: rgb(254, 247, 233);
+    margin-top: 30px;
+}
+.ucluyer
+{
+    float: left;
+    background-color: #fef7e9;
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+}
+.ucluyerbaslik
+{
+    width: 300px;
+    margin: 50px 0px 0px 550px;
+}
+.ucluyeruclu
+{
+    float: left;
+    width: 1100px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.uclu
+{
+    float: left;
+    background-color: white;
+    height: 510px;
+    width: 310px;
+    margin-left: 55px;
+}
+.uclulink
+{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+.uclulink:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.imglink:hover
+{
+    opacity: 0.5;
+}
+.siyahyer
+{
+    float: left;
+    width: 100%;
+    background-image: url(./resim/banner2.png);
+    height: 530px;
+}
+.siyahorta
+{
+    text-align: center;
+    width: 375px;
+    margin: 80px 0px 0px 480px;
+}
+.ikinciuclu
+{
+    float: left;
+    width: 1100px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.ikinciucluyazi
+{
+    float: left;
+    width: 1000px;
+    margin-bottom: 60px;
+    text-align: center;
+    margin-left: 20px;
+}
+.ikinciucluresim
+{
+    float: left;
+    width: 290px;
+    height: 425px;
+    border-radius: 0px 0px 45px 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 50px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+}
+.ikinciucluresim:hover
+{
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+}
+.linkuclu
+{
+    text-decoration: none;
+}
+.linkuclu:hover
+{
+    text-decoration: none;
+}
+.ikinciyazi
+{
+    margin: 250px 0px 0px 10px;
+    text-align: center;
+}
+.foterust
+{
+    width: 100%;
+    float: left;
+    height: 865px;
+    background-color: #fef7e9;
+    margin-top: 70px;
+}
+.foterustbeyaz
+{
+    float: left;
+    width: 610px;
+    background-color: #ffffff;
+    height: 570px;
+    margin: 10px 60px 0px 200px;
+    
+}
+
+.yazilinki
+{
+    color: black;
+    text-decoration: none;
+}
+.yazilinki:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.foterustbeyazbir
+{
+    width: 340px;
+    float: left;
+    height: 570px;
+    background-color: white;
+    margin-top: 10px;
+}
+.resimalti
+{
+    color: black;
+    text-decoration: none;
+}
+.resimalti:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+
+
+.foterlink
+{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.foterlink:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.sptyazi
+{
+    float: right; text-align: right;
+}
+.sptyazibir
+{
+    float: left; color: #808080; font-size: 20px;
+}
+i
+{
+    margin-right: 25px;
+    margin-bottom: 15px;
+}
+
+.ozel
+{
+    margin-right: 0px;
+}
+.carolink
+{
+    background-color: black;
+    margin: 550px 0px 0px 80px;
+    border-radius: 5px;
+}
+.carolink:hover
+{
+    background-color: white;
+}
+.previcon
+{
+    color: white;
+}
+.previcon:hover
+{
+    color: black;
+}
+
+.carolinknext
+{
+    margin: 550px 1185px 0px 0px;
+    background-color: black;
+    border-radius: 5px;
+}
+.carolinknext:hover
+{
+    background-color: white;
+}
+.fotlink
+{
+    color: white;
+}
+.fotlink:hover
+{
+    color: #9a9a9a;
+}
+
+.bas1
+{
+    height: 360px; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.shopinglink
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.shopinglink:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
+.shopimg:hover
+{
+    opacity: 0.7;
+}
+.ozell
+{
+    background-color: blue;
+}
+.ozell:hover
+{
+    opacity: 0.6;
+}
+.bas2
+{
+    height: 330px; 
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+}
+.sepeticon
+{
+    text-decoration: none;
+    color: rgb(244, 195, 88);
+}
+    .cartin
+    {
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+    }
+    .cartin:hover
+    {
+        color: #f4b429;
+        text-decoration: none;
+    }
+    .met
+    {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        height: 460px;
+        border-radius: 0px 0px 50px 0px;
+        margin-left: 50px;
+        transition: all .5s ease-in-out;
+        cursor: pointer;
+    }
+    .met:hover
+    {
+        transform: scale(1.02);
+        -webkit-transform: scale(1.02);
+    }
+    .metin
+    {
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 880px;
+        border-radius: 0px 0px 90px 0px;
+        width: 558px;
+        transition: all .5s ease-in-out;
+        cursor: pointer;
+    }
+    .metin:hover
+    {
+        transform: scale(1.02);
+        -webkit-transform: scale(1.02);
+    }
+    .tekrar
+    {
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        transition: all .5s ease-in-out;
+        cursor: pointer;
+    }
+    .tekrar:hover
+    {
+        transform: scale(1.02);
+        -webkit-transform: scale(1.02);
+    }
+
+    .ortsepet
+    {
+        margin: 40px 0px 30px 180px; float: left;
+    }
+    .enalt
+    {
+        color: #5e615b; 
+        margin-left: 350px;
+        margin-top: 40px; 
+        font-size: 14px;
+    }
+
+
+}
+    footer
+    {
+        float: left;
+        width: 100%;
+        height: 475px;
+        background-image: url(./resim/adam.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        color: white;
+    }
+.contact
+{
+    margin: 75px 0px 0px 90px;
+}
+.face
+{
+    text-decoration: none;
+    color: #0c3b92;
+}
+.face:hover
+{   
+    width: 20px;
+    text-decoration: none;
+    color: #5e78aa;
+}
+.twwit
+{
+    color: #4ca1dd;
+    text-decoration: none;
+}
+.twwit:hover
+{
+    color: #73bbef;
+    text-decoration: none;
+}
+.ins
+{
+    color: #4193ce;
+    text-decoration: none;
+}
+.ins:hover
+{
+    color: #73bbef;
+    text-decoration: none;
+}
+.you
+{
+    color: red;
+    text-decoration: none;
+}
+.you:hover
+{
+    color: #d34b49;
+    
+}
+.linkedin
+{
+    color: #217eac;
+    text-decoration: none;
+}
+.linkedin:hover
+{
+    color: #2f90c1;
+    text-decoration: none;
+}
+.fot
+{
+    color: white;
+    text-decoration: none;
+}
+.fot:hover
+{
+    color: #f4b429;
+    text-decoration: none;
+}
